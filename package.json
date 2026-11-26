@@ -1,0 +1,7 @@
+{
+  "name": "shiyue-lic",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
